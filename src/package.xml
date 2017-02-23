@@ -17,6 +17,11 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>Test_Reports</members>
+        <members>Test_Reports/Test_Report</members>
+        <name>Report</name>
+    </types>
+    <types>
         <members>*</members>
         <name>StaticResource</name>
     </types>
